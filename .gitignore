@@ -13,16 +13,6 @@ ENV/
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
 
-# Logs
-logs/
-*.log
-
-# Data files (if large or sensitive)
-data/raw/
-data/processed/
-
-# Config files with secrets
-config/database.ini
 
 # OS files
 .DS_Store
