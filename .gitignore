@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Data files (if large or sensitive)
+data/raw/
+data/processed/
+
+# Config files with secrets
+config/database.ini
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+*.iml
